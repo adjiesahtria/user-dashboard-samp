@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PAWN](https://img.shields.io/badge/PAWN-%23FF6C37.svg?style=for-the-badge&logo=openbsd&logoColor=white)
+![PAWNO](https://img.shields.io/badge/PAWNO-%23FF6C37.svg?style=for-the-badge&logo=openbsd&logoColor=white)
 
 # 🎮 USER DASHBOARD SA:MP (Panel + Gamemode)
 
